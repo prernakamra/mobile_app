@@ -1,0 +1,16 @@
+C:\Users\PRERNA\source\repos\demo_auth\demo_auth\bin\Debug\netstandard2.0\demo_auth.deps.json
+C:\Users\PRERNA\source\repos\demo_auth\demo_auth\bin\Debug\netstandard2.0\demo_auth.dll
+C:\Users\PRERNA\source\repos\demo_auth\demo_auth\bin\Debug\netstandard2.0\ref\demo_auth.dll
+C:\Users\PRERNA\source\repos\demo_auth\demo_auth\bin\Debug\netstandard2.0\demo_auth.pdb
+C:\Users\PRERNA\source\repos\demo_auth\demo_auth\obj\Debug\netstandard2.0\demo_auth.csproj.AssemblyReference.cache
+C:\Users\PRERNA\source\repos\demo_auth\demo_auth\obj\Debug\netstandard2.0\demo_auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRERNA\source\repos\demo_auth\demo_auth\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PRERNA\source\repos\demo_auth\demo_auth\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PRERNA\source\repos\demo_auth\demo_auth\obj\Debug\netstandard2.0\demo_auth.AssemblyInfoInputs.cache
+C:\Users\PRERNA\source\repos\demo_auth\demo_auth\obj\Debug\netstandard2.0\demo_auth.AssemblyInfo.cs
+C:\Users\PRERNA\source\repos\demo_auth\demo_auth\obj\Debug\netstandard2.0\demo_auth.csproj.CoreCompileInputs.cache
+C:\Users\PRERNA\source\repos\demo_auth\demo_auth\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PRERNA\source\repos\demo_auth\demo_auth\obj\Debug\netstandard2.0\demo_auth.dll
+C:\Users\PRERNA\source\repos\demo_auth\demo_auth\obj\Debug\netstandard2.0\ref\demo_auth.dll
+C:\Users\PRERNA\source\repos\demo_auth\demo_auth\obj\Debug\netstandard2.0\demo_auth.pdb
+C:\Users\PRERNA\source\repos\demo_auth\demo_auth\obj\Debug\netstandard2.0\loggedPage.xaml.g.cs
